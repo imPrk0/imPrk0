@@ -1,14 +1,18 @@
+[![🇺🇦 SUPPORT UKRAINE](https://img.shields.io/badge/%F0%9F%92%97Support-%F0%9F%87%BA%F0%9F%87%A6Ukraine-blue)](https://war.ukraine.ua/support-ukraine/)
+
+<br />
+
 <p align="center">
-  <a href="https://war.ukraine.ua/support-ukraine/">
-    <img src="https://img.shields.io/badge/%F0%9F%92%97Support-%F0%9F%87%BA%F0%9F%87%A6Ukraine-blue" alt="🇺🇦 SUPPORT UKRAINE" />
-  </a>
-  <br />
   <samp>
     <a href="https://x.com/imPrk_">𝕏 (formerly Twitter)</a>
     ·
     <a href="https://discord.gg/VRHRRyXTbS">Discord</a>
   </samp>
 </p>
+
+<a href="https://www.buymeacoffee.com/iprk">
+  <img alt="Buy me a coffee" src="https://cdn.jsdelivr.net/gh/imPrk0/imPrk0@main/buy-me-a-coffee/bmc-button.png" width="150" />
+</a>
 
 ---
 
