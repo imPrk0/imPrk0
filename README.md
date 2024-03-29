@@ -1,4 +1,14 @@
-[🇺🇦 SUPPORT UKRAINE](https://war.ukraine.ua/support-ukraine/)
+<p align="center">
+  <a href="https://war.ukraine.ua/support-ukraine/">
+    <img src="https://img.shields.io/badge/%F0%9F%92%97Support-%F0%9F%87%BA%F0%9F%87%A6Ukraine-blue" alt="🇺🇦 SUPPORT UKRAINE" />
+  </a>
+  <br />
+  <samp>
+    <a href="https://x.com/imPrk_">𝕏 (formerly Twitter)</a>
+    ·
+    <a href="https://discord.gg/VRHRRyXTbS">Discord</a>
+  </samp>
+</p>
 
 ---
 
