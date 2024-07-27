@@ -25,7 +25,7 @@ _I'm currently learning Japanese. (it's really challenging.)_
 I am a web **backend programmer** with proficiency in languages such as [Go](https://go.dev/) and [PHP](https://php.net/). Simultaneously, I've delved into frontend languages like HTML + CSS, JavaScript (TypeScript), and frontend framework [Vue.js](https://vuejs.org/).
 Starting from 2023, I am gradually transitioning from closed-source development to open-source development and have open-sourced multiple pieces of software. You can visit my [GitHub](https://github.com/imPrk0) page for more details. Additionally, I am active on [X (formerly Twitter)](https://x.com/imPrk_), where you can engage with me anytime. Of course, you can also find me on [BlueSky](https://bsky.app/profile/prk0.bsky.social), Mastodon, the Chinese instance of [mas.to](https://mas.to/@prk), [长毛象中文站](https://m.cmx.im/@prk), and [DVD.CHAT](https://dvd.chat/@prk). Beyond my primary occupation, I am also a [YouTuber](https://www.youtube.com/@imPrk_). _(Currently, [my YouTube channel](https://www.youtube.com/@imPrk_) primarily uses Chinese as I interact more with the Chinese community. However, in the future, I plan to create content in English as well.)_
 
-<img src="https://skillicons.dev/icons?i=golang,php,vuejs,react,javascript,typescript,nodejs,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=golang,php,laravel,javascript,typescript,nodejs,vuejs,react,python&theme=dark" />
 
 - 🔭 I’m currently working on a few open-source projects: [The TV-Box](https://github.com/imPrk0/tv-box) and more.
 - 🌱 I’m currently learning Java.
